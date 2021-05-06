@@ -1,3 +1,3 @@
 # King-of-Tokyo
 
-Adaption des Spieles Ling of Tokyo
+Adaption des Spieles King of Tokyo
